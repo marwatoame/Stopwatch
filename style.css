@@ -1,0 +1,42 @@
+body {
+    background-color: #a7bed3;
+    color: #000000;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+    border-style: double;
+
+    padding-bottom: 5px;
+    width: 400px;
+
+    text-align: center;
+    line-height: 59px;
+    margin: auto;
+}
+
+.gold {
+    font-weight: 900;
+
+    color: #e17f93;
+    text-shadow: 0 0 0px #fff, 0 0 50px #f2c94c;
+}
+
+#display {
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 0px auto;
+    display: grid;
+    justify-items: center;
+    grid-row-gap: 23px;
+    padding-top: 25px;
+}
+
+.buttons {
+    text-align: center;
+    padding-top: 25px;
+
+}
